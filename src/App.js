@@ -33,7 +33,7 @@ class App extends Component {
       <div>
       <br></br>
       <Card>
-        <h1>State Stree App</h1>
+        <h1>My Transactions App</h1>
         <hr/>
       <ul>
         <li>
