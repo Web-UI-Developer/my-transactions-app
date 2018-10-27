@@ -1,4 +1,4 @@
-#statestreet-fe-code-challange
+#my-transaction-app
 
 Clone this repository. - git clone git@github.com:Web-UI-Developer/statestreet-fe-code-challange.git or download the zip
 
